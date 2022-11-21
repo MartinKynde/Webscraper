@@ -1,5 +1,0 @@
-channles:
-  - conda-forge
-dependencies:
-  - numpy==1.18.1
-  - BeautifulSoup==3.2.2

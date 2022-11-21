@@ -1,1 +1,1 @@
-pip install BeautifulSoup==4.11.1
+pip install BeautifulSoup

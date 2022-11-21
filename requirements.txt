@@ -1,2 +1,1 @@
-pip install BeautifulSoup
-pip install smtplib
+pip install BeautifulSoup==4.11.1

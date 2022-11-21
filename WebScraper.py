@@ -1,6 +1,4 @@
 import requests
-pip install BeatifulSoup
-pip install smtplib
 from bs4 import BeautifulSoup
 import smtplib
 from email.mime.multipart import MIMEMultipart

@@ -1,1 +1,2 @@
 pip install BeautifulSoup
+pip install smtplib
